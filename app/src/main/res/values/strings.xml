@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaDemo</string>
+    <string name="app_play">Play</string>
+    <string name="app_live">Live</string>
+    <string name="app_vod">Vod</string>
+
+    <string name="duration_default">00:00</string>
+</resources>
